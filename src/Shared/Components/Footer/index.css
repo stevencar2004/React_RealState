@@ -1,0 +1,47 @@
+.footer {
+	background: linear-gradient(180deg, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0.7) 100%),
+		url("http://localhost:3000/Assets/luxuryHouse.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+.footer__wrapper {
+	/* padding: 20px; */
+	margin: 0;
+	color: rgb(202, 202, 202);
+}
+.footer__brand p {
+	width: 90%;
+	font-size: 17px;
+}
+.footer__social {
+	margin-top: 30px;
+}
+.footer__social svg {
+	font-size: 25px;
+}
+.footer__social svg:hover {
+	cursor: pointer;
+	color: rgb(255, 255, 255);
+}
+.footer__wrapper h2 {
+	color: #fff;
+	margin-bottom: 20px;
+}
+.footer__wrapper ul {
+	list-style: none;
+	padding-left: 0;
+}
+.footer__wrapper ul li {
+	margin-bottom: 10px;
+}
+.footer__wrapper ul li a {
+	color: rgb(202, 202, 202);
+	text-decoration: none;
+	font-size: 17px;
+}
+.footer__wrapper ul li a:hover {
+	transition: color 0.3s ease;
+	color: rgb(255, 255, 255);
+	text-decoration: underline;
+}

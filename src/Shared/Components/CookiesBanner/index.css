@@ -1,0 +1,29 @@
+.cookies {
+	height: 100vh;
+	width: 100%;
+	background-color: rgba(0, 0, 0, 0.479);
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 9999;
+}
+
+.cookies__wrapper {
+	position: absolute;
+	bottom: 0;
+	padding: 30px;
+	background-color: aliceblue;
+}
+.cookies__title {
+	color: #35858b;
+}
+
+.btn__cookies {
+	background-color: #35858b;
+	color: #fff;
+}
+.btn__cookies:hover {
+	background-color: #245b5f;
+	color: #fff;
+	transition: background-color 0.3s ease;
+}

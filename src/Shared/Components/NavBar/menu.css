@@ -1,0 +1,18 @@
+#navbar {
+	background-color: #072227;
+}
+
+#navbar .navbar__wrapper .navbar-brand {
+	color: #fff;
+}
+
+#navbar .navbar__wrapper .nav-link {
+	color: rgb(223, 223, 223);
+	border-bottom: 1px solid transparent;
+}
+#navbar .navbar__wrapper .nav-link:hover {
+	border-bottom: 1px solid #35858b;
+}
+#navbar .navbar__wrapper .nav-link:hover {
+	color: #fff;
+}
