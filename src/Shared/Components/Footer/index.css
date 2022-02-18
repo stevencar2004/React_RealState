@@ -1,6 +1,6 @@
 .footer {
 	background: linear-gradient(180deg, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0.7) 100%),
-		url("http://localhost:3000/Assets/luxuryHouse.jpg");
+		url("https://github.com/stevencar2004/React_RealState/blob/main/public/Assets/luxuryHouse.jpg?raw=true");
 	background-size: cover;
 	background-position: center;
 }

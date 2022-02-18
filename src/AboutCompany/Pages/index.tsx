@@ -24,7 +24,7 @@ export const AboutPage = () => {
 					<div className="about__banner  p-3 p-lg-5 row m-0 gx-5">
 						<div className="col-md-4 col-xxl-5">
 							<img
-								src="./Assets/building.svg"
+								src="https://raw.githubusercontent.com/stevencar2004/React_RealState/b91b19494b11c2857af9011bd67552beb93038af/public/Assets/building.svg"
 								loading="lazy"
 								alt="notFound-logo"
 								className="img-fluid about__img"
@@ -110,7 +110,7 @@ export const AboutPage = () => {
 								<div className="service__wrapper border p-3">
 									<div className="service__header mb-4">
 										<img
-											src="./Assets/building.svg"
+											src="https://raw.githubusercontent.com/stevencar2004/React_RealState/b91b19494b11c2857af9011bd67552beb93038af/public/Assets/building.svg"
 											alt="service-1"
 											className="service__img"
 										/>
@@ -131,7 +131,7 @@ export const AboutPage = () => {
 								<div className="service__wrapper border p-3">
 									<div className="service__header mb-4">
 										<img
-											src="./Assets/404.svg"
+											src="https://raw.githubusercontent.com/stevencar2004/React_RealState/b91b19494b11c2857af9011bd67552beb93038af/public/Assets/building.svg"
 											alt="service-1"
 											className="service__img"
 										/>
@@ -151,7 +151,7 @@ export const AboutPage = () => {
 								<div className="service__wrapper border p-3">
 									<div className="service__header mb-4">
 										<img
-											src="./Assets/searchHouse.svg"
+											src="https://raw.githubusercontent.com/stevencar2004/React_RealState/b91b19494b11c2857af9011bd67552beb93038af/public/Assets/building.svg"
 											alt="service-1"
 											className="service__img"
 										/>

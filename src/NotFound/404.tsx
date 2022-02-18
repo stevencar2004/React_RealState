@@ -13,7 +13,11 @@ export const NotFound = () => {
 				<section className="container-fluid p-3 p-md-5 notFound">
 					<div className="notFound__wrapper row">
 						<div className="col-12 col-lg-6 d-flex justify-content-center">
-							<img src="./Assets/404.svg" loading="lazy" alt="notFound-logo" />
+							<img
+								src="https://raw.githubusercontent.com/stevencar2004/React_RealState/b91b19494b11c2857af9011bd67552beb93038af/public/Assets/404.svg"
+								loading="lazy"
+								alt="notFound-logo"
+							/>
 						</div>
 
 						<div className="col-12 col-lg-6">

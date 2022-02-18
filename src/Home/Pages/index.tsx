@@ -65,7 +65,7 @@ export const HomePage = () => {
 							<div className="marketing__wrapper d-flex flex-column align-items-center flex-lg-row justify-content-center gap-3">
 								<div className="marketing__img">
 									<img
-										src="./Assets/searchHouse.svg"
+										src="https://raw.githubusercontent.com/stevencar2004/React_RealState/b91b19494b11c2857af9011bd67552beb93038af/public/Assets/searchHouse.svg"
 										className="img-fluid"
 										alt="img-marketing"
 									/>
@@ -145,7 +145,7 @@ export const HomePage = () => {
 									<div className="col-12 col-md-6 col-lg-4  mb-4 mb-lg-0 projects__propery p-0 d-flex justify-content-center ">
 										<div className="card ">
 											<img
-												src="./Assets/luxuryHouse.jpg"
+												src="https://github.com/stevencar2004/React_RealState/blob/main/public/Assets/luxuryHouse.jpg?raw=true"
 												className="card-img-top "
 												alt="img-property"
 												id="img-property"
@@ -176,7 +176,7 @@ export const HomePage = () => {
 									<div className="col-12 col-md-6 col-lg-4  mb-4 mb-lg-0 projects__propery p-0 d-flex justify-content-center">
 										<div className="card">
 											<img
-												src="./Assets/luxuryHouse.jpg"
+												src="https://github.com/stevencar2004/React_RealState/blob/main/public/Assets/luxuryHouse.jpg?raw=true"
 												className="card-img-top "
 												alt="img-property"
 												id="img-property"
@@ -206,7 +206,7 @@ export const HomePage = () => {
 									<div className="col-12 col-md-6 col-lg-4  mb-4 mb-lg-0 projects__propery p-0 d-flex justify-content-center">
 										<div className="card">
 											<img
-												src="./Assets/luxuryHouse.jpg"
+												src="https://github.com/stevencar2004/React_RealState/blob/main/public/Assets/luxuryHouse.jpg?raw=true"
 												className="card-img-top "
 												alt="img-property"
 												id="img-property"
@@ -314,35 +314,50 @@ export const HomePage = () => {
 								) : (
 									<>
 										<div className="logo col-12 col-md-6 col-lg-4">
-											<img src="./Assets/luxuryHouse.jpg" alt="builder__logo" />
+											<img
+												src="https://github.com/stevencar2004/React_RealState/blob/main/public/Assets/luxuryHouse.jpg?raw=true"
+												alt="builder__logo"
+											/>
 											<h2 className="builder__info text-muted fs-4 text-center mt-3">
 												Lorem Ipsu
 											</h2>
 										</div>
 
 										<div className="logo col-12 col-md-6 col-lg-4">
-											<img src="./Assets/luxuryHouse.jpg" alt="builder__logo" />
+											<img
+												src="https://github.com/stevencar2004/React_RealState/blob/main/public/Assets/luxuryHouse.jpg?raw=true"
+												alt="builder__logo"
+											/>
 											<h2 className="builder__info text-muted fs-4 text-center mt-3">
 												Lorem Ipsu
 											</h2>
 										</div>
 
 										<div className="logo col-12 col-md-6 col-lg-4">
-											<img src="./Assets/luxuryHouse.jpg" alt="builder__logo" />
+											<img
+												src="https://github.com/stevencar2004/React_RealState/blob/main/public/Assets/luxuryHouse.jpg?raw=true"
+												alt="builder__logo"
+											/>
 											<h2 className="builder__info text-muted fs-4 text-center mt-3">
 												Lorem Ipsu
 											</h2>
 										</div>
 
 										<div className="logo col-12 col-md-6 col-lg-4">
-											<img src="./Assets/luxuryHouse.jpg" alt="builder__logo" />
+											<img
+												src="https://github.com/stevencar2004/React_RealState/blob/main/public/Assets/luxuryHouse.jpg?raw=true"
+												alt="builder__logo"
+											/>
 											<h2 className="builder__info text-muted fs-4 text-center mt-3">
 												Lorem Ipsu
 											</h2>
 										</div>
 
 										<div className="logo col-12 col-md-6 col-lg-4">
-											<img src="./Assets/luxuryHouse.jpg" alt="builder__logo" />
+											<img
+												src="https://github.com/stevencar2004/React_RealState/blob/main/public/Assets/luxuryHouse.jpg?raw=true"
+												alt="builder__logo"
+											/>
 											<h2 className="builder__info text-muted fs-4 text-center mt-3">
 												Lorem Ipsu
 											</h2>

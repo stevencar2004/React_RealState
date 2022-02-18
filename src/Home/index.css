@@ -2,7 +2,7 @@
 	width: 100%;
 	height: 500px;
 	background: linear-gradient(180deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.4) 100%),
-		url("http://localhost:3000/Assets/banner.jpg");
+		url("https://github.com/stevencar2004/React_RealState/blob/main/public/Assets/banner.jpg?raw=true");
 	background-size: cover;
 	background-position: center;
 }
@@ -116,7 +116,7 @@
 .services__advice {
 	height: 500px;
 	background: linear-gradient(180deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.4) 100%),
-		url("http://localhost:3000/Assets/agent.jpg");
+		url("https://github.com/stevencar2004/React_RealState/blob/main/public/Assets/Agent.jpg?raw=true");
 	background-size: cover;
 	background-position: center;
 	padding-left: 30px;
@@ -143,7 +143,7 @@
 
 .services__more {
 	background: linear-gradient(180deg, rgba(0, 0, 0, 0.85) 0%, rgba(0, 0, 0, 0.7) 100%),
-		url("http://localhost:3000/Assets/study.jpg");
+		url("https://github.com/stevencar2004/React_RealState/blob/main/public/Assets/study.jpg?raw=true");
 	background-size: cover;
 	background-position: center;
 }
